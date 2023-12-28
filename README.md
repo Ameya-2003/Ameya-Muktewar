@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ameya Muktewar, a 3rd year undergrad at Vellore Institute of Technology - VIT BHOPAL
+- 🏆 I'm a AWS Certified Cloud Practitioner.
 - 👀 I’m interested in Cloud Computing and Automation, Cloud Security, Blockchain, and Quantum Computing.
-- 🌱 I’m currently learning AWS Cloud Fundamentals, and preparing for the AWS Foundational Cloud Practioner and AWS Associate Solutions Architect Exam.
-      I am also learning a bit about SmartContracts and Blockchain technology.
+- 🌱 I’m currently learning AWS Cloud Fundamentals, and preparing for AWS Associate Solutions Architect Exam. I am also learning a bit about SmartContracts and Blockchain technology.
 - 🌱 I am currently programming in Java and in Solidity.
 - 📫 You can reach me at ameyamuktewargithub@gmail.com
 
