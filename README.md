@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameya Muktewar</h1>
-<h3 align="center">I am an AWS Certified Cloud Practitioner and a 3rd year student at VIT BHOPAL.</h3>
+<h3 align="center">I am a 3rd year student at VIT BHOPAL and an AWS Certified Cloud Practitioner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyamuktewar&label=Profile%20views&color=0e75b6&style=flat" alt="ameyamuktewar" /> </p>
 
@@ -7,13 +7,15 @@
 
 - 🔭 I’m currently working on [BlockChain Projects](https://github.com/Ameya-2003/BlockChain)
 
-- 🌱 I’m currently learning: **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
+- 🌱 I’m currently learning **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
 
-- 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
+- 💬 Ask me about **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
 
-- 📫 How to reach me: **ameyamuktewargithub@gmail.com**
+- 📫 How to reach me **ameyamuktewargithub@gmail.com**
 
-- ⚡ Fun fact: **I am curious learner about Technology and Finance**
+- 📄 Know about my experiences [https://www.linkedin.com/in/ameya-muktewar-2006a9243/](https://www.linkedin.com/in/ameya-muktewar-2006a9243/)
+
+- ⚡ Fun fact **I am curious learner about Technology and Finance**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -33,6 +35,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameyamuktewar&" alt="ameyamuktewar" /></p>
