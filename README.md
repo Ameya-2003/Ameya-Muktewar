@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **ameyamuktewargithub@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ameya-muktewar-2006a9243/](https://www.linkedin.com/in/ameya-muktewar-2006a9243/)
-
 - ⚡ Fun fact **I am curious learner about Technology and Finance**
 
 ### Blogs posts
