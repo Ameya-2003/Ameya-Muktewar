@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ameya Muktewar</h1>
-<h3 align="center">I am a 3rd year student at VIT BHOPAL.</h3>
+<h3 align="center">I am an AWS Certified Cloud Practitioner and a 3rd year student at VIT BHOPAL.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameyamuktewar&label=Profile%20views&color=0e75b6&style=flat" alt="ameyamuktewar" /> </p>
 
