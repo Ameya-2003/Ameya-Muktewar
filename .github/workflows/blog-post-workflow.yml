@@ -16,4 +16,4 @@ jobs:
       - name: Pull in dev.to posts
         uses: AmeyaMuktewar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/AmeyaMuktewar,https://www.AmeyaMuktewar.com/feed/"
+          feed_list: "https://dev.to/feed/ameya2003,https://www.ameya2003.com/feed/"
