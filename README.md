@@ -7,15 +7,13 @@
 
 - 🔭 I’m currently working on [BlockChain Projects](https://github.com/Ameya-2003/BlockChain)
 
-- 🌱 I’m currently learning **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
+- 🌱 I’m currently learning: **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
 
-- 💬 Ask me about **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
+- 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
 
-- 📫 How to reach me **ameyamuktewargithub@gmail.com**
+- 📫 How to reach me: **ameyamuktewargithub@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ameya-muktewar-2006a9243/](https://www.linkedin.com/in/ameya-muktewar-2006a9243/)
-
-- ⚡ Fun fact **I am curious learner about Technology and Finance**
+- ⚡ Fun fact: **I am curious learner about Technology and Finance**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
