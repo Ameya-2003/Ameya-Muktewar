@@ -3,19 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameya-2003" alt="ameya-2003" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
 
-- 🔭 I’m currently working on [BlockChain Projects](https://github.com/Ameya-2003/BlockChain)
+- 🔭 I’m currently working on: [BlockChain Projects](https://github.com/Ameya-2003/BlockChain)
 
-- 🌱 I’m currently learning **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
+- 🌱 I’m currently learning: **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
 
-- 💬 Ask me about **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
+- 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
 
-- 📫 How to reach me **ameyamuktewargithub@gmail.com**
+- 📫 How to reach me: **ameyamuktewargithub@gmail.com**
 
-- ⚡ Fun fact **I am curious learner about Technology and Finance**
+- ⚡ Fun fact: **I am curious learner about Technology and Finance**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
