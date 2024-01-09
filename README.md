@@ -17,6 +17,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
+- [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
