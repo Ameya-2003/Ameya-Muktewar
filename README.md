@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ameya Muktewar</h1>
 <h3 align="center">I am a 3rd year student at VIT BHOPAL and an AWS Certified Cloud Practitioner.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameyamuktewar&label=Profile%20views&color=0e75b6&style=flat" alt="ameyamuktewar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
 
-<p align="center"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ameya-2003" alt="ameya-2003" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
 
 - 🔭 I’m currently working on [BlockChain Projects](https://github.com/Ameya-2003/BlockChain)
 
@@ -17,12 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
-- [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://dev.to/https://dev.to/ameya2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ameya2003" height="30" width="40" /></a>
 <a href="https://twitter.com/ameyamuktewar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ameyamuktewar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ameya-muktewar-2006a9243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ameya-muktewar-2006a9243/" height="30" width="40" /></a>
@@ -34,9 +34,9 @@
 <a href="https://www.leetcode.com/https://leetcode.com/ameyamuktewar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ameyamuktewar/" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Contributions:</h3>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ameya-2003&theme=blue-green&hide_border=true&border_radius=4)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameya-2003&show_icons=true&locale=en" alt="ameya-2003" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameya-2003&" alt="ameya-2003" /></p>
