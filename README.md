@@ -37,4 +37,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ameya-2003&show_icons=true&locale=en" alt="ameya-2003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameya-2003&" alt="ameya-2003" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ameya-2003&theme=blue-green" alt="GitHub Streak" /></a>
