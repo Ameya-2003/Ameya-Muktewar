@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, It's Ameya this side</h1>
 <h3 align="center">I am a 3rd year student at VIT BHOPAL and an AWS Certified Cloud Practitioner.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
 
 - 🔭 I’m currently working on: [BlockChain Projects](https://github.com/Ameya-2003/BlockChain) , [AWS Kendra Web Crawler with MFA Login](https://github.com/Ameya-2003/aws-step-functions-kendra-web-crawler-mfa-login)
 
