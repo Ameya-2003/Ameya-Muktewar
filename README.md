@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, It's Ameya this side</h1>
+<h1 align="center">Hi 👋 It's Ameya this side</h1>
 <h3 align="center">I am a 3rd year student at VIT BHOPAL and an AWS Certified Cloud Practitioner.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
