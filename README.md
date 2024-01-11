@@ -13,7 +13,8 @@
 
 - 📫 How to reach me: **ameyamuktewargithub@gmail.com**
 
-- ⚡ Fun fact: **Not bragging. However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉**
+- ⚡ Fun fact: **Not bragging. However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
+  Don't believe? [check this](https://www.chess.com/year-in-chess/ameyamuktewar?referrer=twitter&pageType=summary&utm_campaign=2023-year-in-chess&utm_source=Android)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
