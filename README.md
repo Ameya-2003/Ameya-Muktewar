@@ -17,7 +17,7 @@
 - ⚡ Fun fact: **Not bragging. However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
   Don't believe? [Have a look](https://www.chess.com/year-in-chess/ameyamuktewar?referrer=twitter&pageType=summary&utm_campaign=2023-year-in-chess&utm_source=Android)**
 
-### ![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white) 
+### [![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003) 
 <!-- BLOG-POST-LIST:START -->
 - [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
 - [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
