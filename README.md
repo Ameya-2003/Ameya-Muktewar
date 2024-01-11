@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋 It's Ameya this side</h1>
-<h3 align="center">I am a 3rd year student at VIT BHOPAL and an AWS Certified Cloud Practitioner.</h3>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ameya;AWS+Certfied+Cloud+Practitioner+🏆;I'm+creating+Solidity+smart+contracts+for+the+Ethereum+ blockchain+♢;and+playing+Chess+♕&width=700&height=50&color=2fbb4f&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
+<hr>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
 
@@ -11,12 +12,12 @@
 
 - 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
 
-- 📫 How to reach me: **[Mail](ameyamuktewargithub@gmail.com)**
+- 📫 How to reach me: **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ameyamuktewargithub@gmail.com)**
 
 - ⚡ Fun fact: **Not bragging. However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
   Don't believe? [check this](https://www.chess.com/year-in-chess/ameyamuktewar?referrer=twitter&pageType=summary&utm_campaign=2023-year-in-chess&utm_source=Android)**
 
-### Blogs posts
+### ![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)
 <!-- BLOG-POST-LIST:START -->
 - [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
 - [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
