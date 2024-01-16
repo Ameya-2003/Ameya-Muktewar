@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ameya;An+AWS+Certfied+Cloud+Practitioner+🏆;I'm+creating+Solidity+smart+contracts+for+the+Ethereum+ blockchain+♢;and+playing+Chess+♕&width=700&height=60&color=#33FF74,#28B463&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Ameya;An+AWS+Certfied+Cloud+Practitioner+🏆;I'm+creating+Solidity+smart+contracts+for+the+Ethereum+ blockchain+♢;and+playing+Chess+♕&width=700&height=60&color=#33FF74&center=true" width="1000" style="margin-top:-5rem" alt="" align="center">
 <hr>
 
 
