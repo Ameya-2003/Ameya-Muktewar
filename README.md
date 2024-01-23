@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on: [BlockChain Projects](https://github.com/Ameya-2003/BlockChain) , [AWS Kendra Web Crawler with MFA Login](https://github.com/Ameya-2003/aws-step-functions-kendra-web-crawler-mfa-login)
 
-- 🌱 I’m currently learning: **AWS Solutions Architect Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
+- 🌱 I’m currently learning: **AWS Security Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
 
 - 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
 
