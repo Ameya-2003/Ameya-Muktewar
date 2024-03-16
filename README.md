@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74F725CC&background=000000&random=false&width=435&lines=++++Hey+there!+this+is+Ameya+here;An+AWS+Certfied+Solutions+Architect+and+Cloud+Practitioner;I'm+creating+solidity+smart+contracts;working+towards+cloud+security;and+playing+chess+%E2%99%95" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=74F725CC&background=000000&random=false&width=435&lines=++++Hey+there!+this+is+Ameya+here;An+AWS+Certfied+Solutions+Architect+and+Cloud+Practitioner;I'm+creating+DevOps+Projects;working+towards+cloud+security;and+playing+chess+%E2%99%95" alt="Typing SVG" /></a></p>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ameya-2003&label=Profile%20views&color=0e75b6&style=flat" alt="ameya-2003" /> </p>
