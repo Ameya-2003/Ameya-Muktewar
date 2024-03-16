@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://twitter.com/ameyamuktewar" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
 
-- 🔭 I’m currently working on: [BlockChain Projects](https://github.com/Ameya-2003/BlockChain) , [AWS Kendra Web Crawler with MFA Login](https://github.com/Ameya-2003/aws-step-functions-kendra-web-crawler-mfa-login)
+- 🔭 I’m currently working on: [DevOps Projects](https://ameya-2003.github.io/Sys-Scan/) , [BlockChain Projects](https://ameya-2003.github.io/BlockChain-SmartContracts-and-Projects/)
 
-- 🌱 I’m currently learning: **AWS Security Frameworks, Ethereum Smart Contract development through Solidity, and REST APIs**
+- 🌱 I’m currently learning: **AWS Security Frameworks, DevOps with K8s and Docker, and some Golang**
 
-- 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, BlockChain, and Artificial Intelligence.**
+- 💬 Ask me about: **Cloud Computing, AWS Cloud Fundamentals, Cloud Security, Devops, Kubernets and Docker, BlockChain, and Artificial Intelligence.**
 
 - 📫 How to reach me: **<a href="mailto:ameyamuktewargithub@gmail.com"><b>Via Mail</b></a>. </a>**
 
