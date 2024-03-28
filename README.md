@@ -18,6 +18,7 @@
 
 ### [![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003) 
 <!-- BLOG-POST-LIST:START -->
+- [☸️SYS SCAN — A cloud native Monitoring App built on K8s using Docker and AWS Integration🐋](https://dev.to/ameya2003/sys-scan-a-cloud-native-monitoring-app-built-on-k8s-using-docker-and-aws-integration-4b78)
 - [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
 - [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
 <!-- BLOG-POST-LIST:END -->
