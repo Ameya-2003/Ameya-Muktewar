@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://twitter.com/TacticalTh36910" target="blank"><img src="https://img.shields.io/twitter/follow/ameyamuktewar?logo=twitter&style=for-the-badge" alt="ameyamuktewar" /></a> </p>
 
-- 🔭 I’m currently working on: [DevOps Projects](https://ameya-2003.github.io/Sys-Scan/) , [BlockChain Projects](https://ameya-2003.github.io/BlockChain-SmartContracts-and-Projects/)
+- 🔭 I’m currently working on: [DevOps Projects](https://ameya-2003.github.io/Kube-Ballot/) , [BlockChain Projects](https://ameya-2003.github.io/BlockChain-SmartContracts-and-Projects/)
 
 - 🌱 I’m currently learning: **AWS Security Frameworks, DevOps with K8s and Docker, and some Golang**
 
