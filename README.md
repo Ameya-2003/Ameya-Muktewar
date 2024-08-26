@@ -16,7 +16,7 @@
 - ⚡ Fun fact: **Not bragging, However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
   Don't believe? [Have a look](https://www.chess.com/stats/overview/ameyamuktewar/0?)**
   
-- ✔ Check out: My [![Devto.blog](https://img.shields.io/badge/%20BLOGS-4285F4?)](https://dev.to/ameya2003) and [![Portfolio](https://img.shields.io/badge/POTFOLIO-brightgreen.svg?style=flat)](https://ameya-2024-portfolio.web.app)
+- ✔ Check out: My [![Devto.blog](https://img.shields.io/badge/%20BLOGS-4285F4?)](https://dev.to/ameya2003) and [![Portfolio](https://img.shields.io/badge/PORTFOLIO-brightgreen.svg?style=flat)](https://ameya-2024-portfolio.web.app)
 
 
 
