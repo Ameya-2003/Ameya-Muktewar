@@ -15,8 +15,8 @@
 
 - ⚡ Fun fact: **Not bragging, However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
   Don't believe? [Have a look](https://www.chess.com/stats/overview/ameyamuktewar/0?)**
-- ![blogging](https://github.com/user-attachments/assets/f30e271f-1f4c-44dc-b511-8ac891a83968)
- [![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003)
+- ![blogging](https://github.com/user-attachments/assets/543a4d10-b8b7-4609-9753-66627d89a60a)
+[![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003)
 
 <h3> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px; height=30px> </h3> 
 
