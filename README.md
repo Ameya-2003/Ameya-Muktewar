@@ -15,15 +15,10 @@
 
 - ⚡ Fun fact: **Not bragging, However, I can defeat you with a spectacular ♕ CHECKMATE ♕ on the 64 squares in less than 20 moves. 😉
   Don't believe? [Have a look](https://www.chess.com/stats/overview/ameyamuktewar/0?)**
+- ![blogging](https://github.com/user-attachments/assets/f30e271f-1f4c-44dc-b511-8ac891a83968)
+ [![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003)
 
-### [![Blogs](https://img.shields.io/badge/dev.toblogs-0A0A0A?style=for-the-badge&logo=Blogs&logoColor=white)](https://dev.to/ameya2003) 
-<!-- BLOG-POST-LIST:START -->
-- [☸️SYS SCAN — A cloud native Monitoring App built on K8s using Docker and AWS Integration🐋](https://dev.to/ameya2003/sys-scan-a-cloud-native-monitoring-app-built-on-k8s-using-docker-and-aws-integration-4b78)
-- [How to Set Up Your Environment for Solidity Development on VS Code.](https://dev.to/ameya2003/how-to-set-up-your-environment-for-solidity-development-on-vs-code-3phn)
-- [Building an AWS Serverless Web Crawler: A Deep Dive](https://dev.to/ameya2003/building-an-aws-serverless-web-crawler-a-deep-dive-47hc)
-<!-- BLOG-POST-LIST:END -->
-
-### Skills
+<h3> Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 20px; height=30px> </h3> 
 
    <a href="https://skillicons.dev" align="center"> <img align="center" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,googlecloud,remix,firebase,vercel,redhat,mongodb,mysql,java,py,golang,solidity,django,postman,git,github,githubactions,vscode" /> </a>
 
@@ -36,9 +31,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ameya-2003&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ameya-2003&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ameya-2003&" alt="ameya-2003" /></p>
   </div> 
-
- 
-
-
-
-
